@@ -1,10 +1,10 @@
-# Enbysis_UK_Rental
+# Enbisys_UK_Rental
 
-Проект можно посмотреть на [deepnote](https://deepnote.com/project/EnbisysUSRental-Duplicate-4HFsec1JQhu2LqzIAiQNOQ/0.0000003-nn-embedding.ipynb)
+Проект можно посмотреть на [deepnote](https://deepnote.com/project/EnbisysUSRental-Duplicate-4HFsec1JQhu2LqzIAiQNOQ/%2F0_Overview.ipynb)
 
 Таблица с изменениями метрики:
-* [CatBoost](https://app.neptune.ai/declot/Enbysis-UK-Rental/experiments?viewId=814f51e5-fca5-4317-824a-28041d8d2d5b)
-* [NeuralNetwork](https://app.neptune.ai/declot/Enbysis-UK-Rental/experiments?viewId=62a42b71-06d1-4fb9-9cd3-cc1158e5b0cf)
+* [CatBoost](https://app.neptune.ai/declot/Enbisys-UK-Rental/experiments?viewId=814f51e5-fca5-4317-824a-28041d8d2d5b)
+* [NeuralNetwork](https://app.neptune.ai/declot/Enbisys-UK-Rental/experiments?viewId=62a42b71-06d1-4fb9-9cd3-cc1158e5b0cf)
 ____
 То, что было попробовано, но не дало улучшение метрики (in NN):
 * обработка текстовых признаков; вычленение численных составляющих как новый признак; разбиение текста на конкретные категории
